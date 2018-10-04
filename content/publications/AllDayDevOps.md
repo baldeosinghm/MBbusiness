@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual"
 date: 2016-11-08
 pubtype: "Talk"
@@ -22,4 +22,4 @@ This talk looked at Liberty Mutual’s transformation to Continuous Integration,
 - Incorporate contributions from everyone; don’t stifle autonomy. Stay open to new ways of working.
 - Challenge security policies, but respect intentions. Find new ways to enforce concerns without abandoning precaution.
 
-{{< youtube id="FsfKsqI07jM" t="80" width="600px" >}}
+{{< youtube id="FsfKsqI07jM" t="80" width="600px" >}} -->

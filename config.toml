@@ -1,51 +1,38 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "Eddie Webb"
+title = "Matthew Baldeosingh"
 theme = "hugo-resume"
 publishDir = "dist"
 
 [params]
-    firstName = "Eddie"
-    lastName = "Webb"
-    address = "Rollinsford, NH"
-    phone = "1-555-555-1234"
-    contactNote = "Dev Tools Engineer"
-    profileImage = "img/TechChat.png"
-    email = "email@domain.com"
-    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    firstName = "Matthew"
+    lastName = "Baldeosingh"
+    address = "Brooklyn, NY"
+    phone = "1-347-867-0060"
+    profileImage = "img/headshot.jpg"
+    email = "matthewbaldeosingh451@gmail.com"
+    description = "Computer Science and Economics double major."
     favicon = "images/favicon.ico"
     # what sections
-    showSkills = true
-    showProjects = true
-    showOpenSource = true
-    showPublications = true
+    showSkills = false
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
     showExperience = true
     showEducation = true
+    # showResume = true //create a function that calls Resume
 
     showQr = true
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
+    link = "https://www.linkedin.com/in/baldeosingh"
 
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/eddiewebb/"
+    link = "https://github.com/baldeosinghm/"
 
-[[params.handles]]
-    name = "Bitbucket"
-    link = "https://bitbucket.org/eddiewebb/"
-
-[[params.handles]]
-    name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/82880"
-    icon = "stack-overflow"
-
-[[params.handles]]
-    name = "Keybase"
-    link = "https://keybase.io/edwardawebb"
-    icon = "key"
 
 [params.google.analytics]
     trackerID = "XX-123446-01"

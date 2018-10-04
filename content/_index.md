@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-<p>Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.</p>
+<p>Hello and welcome to my site!  My name is Matthew Baldeosingh and I am from Brooklyn, NY.  I am a Computer Science and Economics double major and am currently a Junior at Allegheny College.  I have experience working with both the frontend and backend of coding and I am very interested in fintech.</p>

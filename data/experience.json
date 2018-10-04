@@ -1,20 +1,20 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.",
-        "range":"February 2016 - Present"
+        "role":"Administration Intern",
+        "company":"ASA College",
+        "summary":"I catalogued the profiles of prospective students to generate a more systematic approach to profiling students. Managed and advised community outreach team in recruiting students throughout New York City’s five boroughs. Trained fourteen interns on how to evaluate a prospective student’s financial aid application.",
+        "range":"June 2016 - August 2016"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Software Development Intern with Corporate Technology, Finance Risk",
+        "company":"JP Morgan",
+        "summary":"Created a database driven website that provided mechanisms for LOB (line of business) users to easily attest to feeds. Improved the UI of the web app with functional grid coded in Ext JS.  Coded SQL queries that pull feeds from a database and refreshed website with retrieved feeds.  Transferred LOB users old feed inventories from an excel sheet to an organized grid with greater functionality.  Developed backend for web app using Java and Spring Framework.",
+        "range":"June 2017 - August 2017"
     },
     {
         "role":"Developer",
         "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "summary":"Augmented bPaid, a £450 million digital program Barclays commissioned to put Barclaycard at forefront of payments.  Advised and redesigned onboarding processes and servicing strategies of small merchants and large enterprises.  Analyzed self-serving capabilities as economical means of eliminating expenses to firm.",
+        "range":"July 2018 - August 2018"
     }
 ]
