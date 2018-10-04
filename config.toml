@@ -17,7 +17,6 @@ publishDir = "dist"
     showSkills = false
     showProjects = false
     showOpenSource = false
-    showPublications = false
     showExperience = true
     showEducation = true
     # showResume = true //create a function that calls Resume
